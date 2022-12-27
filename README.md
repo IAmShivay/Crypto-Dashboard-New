@@ -37,6 +37,6 @@ First Clone My project Via git Clone
 will run the Application
 ## Screenshots
 
-![App Screenshot](https://drive.google.com/file/d/1AkHhGZlIopJyqaxaTmuyGVaOfrCF8sty/view?usp=share_link)
-![App Screenshot](https://drive.google.com/file/d/1XOSkn-ZYWZtp-n0Pg4oFukvD-pvx0iAM/view?usp=share_link)
+![Screenshot (701)](https://user-images.githubusercontent.com/109723638/209617571-c508914c-7e37-4efa-87ea-18b71fe4a2a8.png)
 
+![Screenshot (700)](https://user-images.githubusercontent.com/109723638/209617579-4646f64e-0c45-4955-aadf-4501ff08ed6c.png)
