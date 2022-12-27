@@ -1,9 +1,9 @@
 import './App.css';
-
+import FinalUI from './Components/UserInterface';
 function App() {
   return (
-    <div className="App">
-      <h1> In Progress </h1>
+    <div>
+      <FinalUI />
     </div>
   );
 }
