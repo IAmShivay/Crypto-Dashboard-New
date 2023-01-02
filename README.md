@@ -30,7 +30,7 @@ https://drive.google.com/file/d/1AkHhGZlIopJyqaxaTmuyGVaOfrCF8sty/view?usp=share
 First Clone My project Via git Clone
 
 [![gitClone](https://img.shields.io/badge/-git%20clone-red)](git@github.com:IAmShivay/Crypto-Dashboard-New.git)
-
+git@github.com:IAmShivay/Crypto-Dashboard-New.git
 # Then
 - Cd crypto-dash
 - npm install -A
