@@ -10,7 +10,8 @@ also we can chek graph data as verticle graph,horizontal graph,line graph,also w
 ## Diployed App link
 
 [[![View App](https://img.shields.io/badge/-View%20App-red)](git@github.com:IAmShivay/Crypto-Dashboard-New.git)
-](https://friendly-sunburst-1109ab.netlify.app/line)
+] 
+https://friendly-sunburst-1109ab.netlify.app/
 ## Demo
 
 https://drive.google.com/file/d/1AkHhGZlIopJyqaxaTmuyGVaOfrCF8sty/view?usp=share_link
