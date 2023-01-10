@@ -2,7 +2,6 @@
 
 Hii My name is Shiv kumar sharma 
 
-
 # Project Title
 
 This is a crypto dashboard project by which we can check realtime coin value ,exchange price of diffrent coin, 
