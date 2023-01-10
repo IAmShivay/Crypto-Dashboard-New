@@ -1,12 +1,13 @@
-# Crypto-Dashboard-New
+
 
 Hii My name is Shiv kumar sharma 
 
 # Project Title
+# Crypto-Dashboard-New
 
-This is a crypto dashboard project by which we can check realtime coin value ,exchange price of diffrent coin, 
-also we can chek graph data as verticle graph,horizontal graph,line graph,also we can compare the graph
-## Diployed App link
+This is a crypto dashboard project by which we can check realtime coin value ,exchange price of different coin, 
+also we can check graph data as verticle graph,horizontal graph,line graph,also we can compare the graph
+## Deployed App link
 
 [[![View App](https://img.shields.io/badge/-View%20App-red)](git@github.com:IAmShivay/Crypto-Dashboard-New.git)
 ] 
