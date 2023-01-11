@@ -1,0 +1,57 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Coin matches the snapshot 1`] = `
+<div
+  className="group hover:scale-105 hover:shadow-xl hover:shadow-blue-100 dark:hover:shadow-lg dark:hover:shadow-blue-400 transition-all duration-200"
+>
+  <div
+    className="flex place-content-between mb-2 lg:mb-[12px] xl:pt-1 border-b-2"
+  >
+    <div
+      className="px-4 group"
+    >
+      <div
+        className="coin flex "
+      >
+        <img
+          alt="crypto"
+          className="w-4 mr-2 self-center"
+          src="example.com/bitcoin.png"
+        />
+        <h1
+          className="dark:text-gray-50 self-center font-semibold text-sm tracking-widest group-hover:text-blue-600 dark:group-hover:text-blue-400 dark:group-hover:delay-100 group-hover:delay-100"
+        >
+          Bitcoin
+        </h1>
+      </div>
+      <div
+        className="xl:pb-1"
+      >
+        <p
+          className="dark:text-zinc-300 text-zinc-400 font-semibold text-[10px] tracking-widest mb-[14px] group-hover:text-blue-600  dark:group-hover:text-blue-400 dark:group-hover:delay-100 group-hover:delay-100 ml-6"
+        >
+          Mkt.Cap 
+          $
+           
+          1,000,000
+        </p>
+      </div>
+    </div>
+    <div
+      className="font-semibold tracking-wider text-xs place-items-center mt-[2px] px-4"
+    >
+      <p
+        className="text-emerald-500 dark:text-emerald-400"
+      >
+        <span
+          className="mr-2"
+        >
+          ▲
+        </span>
+        0.50
+         %
+      </p>
+    </div>
+  </div>
+</div>
+`;

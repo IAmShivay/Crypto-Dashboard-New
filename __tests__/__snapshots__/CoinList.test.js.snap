@@ -1,0 +1,22 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`CoinList renders correctly 1`] = `
+<DocumentFragment>
+  <div
+    class="py-5 "
+  >
+    <div
+      class="px-4 mb-8 xl:mb-9 lg:mb-6 font-bold text-xl tracking-wider text-stone-600"
+    >
+      <h1
+        class="dark:text-gray-50"
+      >
+        Cryptocurrency by market cap
+      </h1>
+    </div>
+    <div
+      class="h-[44rem] lg:h-[41rem] xl:h-[44rem] overflow-y-scroll scrollbar-hide"
+    />
+  </div>
+</DocumentFragment>
+`;
