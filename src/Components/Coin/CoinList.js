@@ -19,7 +19,7 @@ function CoinList() {
             )
             .then((res) => {
                 setCoins(res.data);
-                console.log('COIN LIST', res.data);
+                console.log('');
             })
             .catch((error) => console.log(error));
     }, [currencyVal]);

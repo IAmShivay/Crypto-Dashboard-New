@@ -1,1 +1,1 @@
-export * as actionCreators from '../Redux/Action-Creator/ActionCreator'
+export * as actionCreators from '../Redux/Action-Creator/ActionCreator'  // This line of code exports all of the functions from the 'actionCreators' object in the '../Redux/Action-Creator/ActionCreator' module, and assigns them to an object with the same name 'actionCreators'.
