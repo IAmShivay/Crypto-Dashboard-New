@@ -31,6 +31,7 @@ First Clone My project Via git Clone
 [![gitClone](https://img.shields.io/badge/-git%20clone-red)](git@github.com:IAmShivay/Crypto-Dashboard-New.git)
 git@github.com:IAmShivay/Crypto-Dashboard-New.git
 # Then
+- Crypto-Dashboard-New
 - npm install -A
 - npm start 
 
