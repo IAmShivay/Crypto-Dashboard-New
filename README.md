@@ -35,7 +35,7 @@ First Clone My project Via git Clone
 
 # Then
 
-- `Crypto-Dashboard-New`
+- `cd Crypto-Dashboard-New`
 - `npm install -A`
 - `npm start`
 
