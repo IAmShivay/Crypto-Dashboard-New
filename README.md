@@ -8,7 +8,7 @@ This is a crypto dashboard project by which we can check realtime coin value ,ex
 also we can check graph data as verticle graph,horizontal graph,line graph,also we can compare the graph
 ## Deployed App link
 
-[[![View App](https://img.shields.io/badge/-View%20App-red)](https://frabjous-melomakarona-29ae1b.netlify.app/)
+[[!View App(https://img.shields.io/badge/-View%20App-red)](https://frabjous-melomakarona-29ae1b.netlify.app/)
 ] 
 https://frabjous-melomakarona-29ae1b.netlify.app/
 ## Demo
